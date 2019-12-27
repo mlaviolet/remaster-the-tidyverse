@@ -26,3 +26,5 @@ vignettes/*.pdf
 rsconnect/
 /course-development/
 .DS_Store
+# produced HTML documents
+*.html
